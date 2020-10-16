@@ -10,3 +10,14 @@
 /Users/alenamartinkova/Desktop/School/5.sem/C#/CVIKÁ/mar0702-05-ukol-1/mar0702-05-ukol-1/obj/Debug/netcoreapp3.1/mar0702-05-ukol-1.dll
 /Users/alenamartinkova/Desktop/School/5.sem/C#/CVIKÁ/mar0702-05-ukol-1/mar0702-05-ukol-1/obj/Debug/netcoreapp3.1/mar0702-05-ukol-1.pdb
 /Users/alenamartinkova/Desktop/School/5.sem/C#/CVIKÁ/mar0702-05-ukol-1/mar0702-05-ukol-1/obj/Debug/netcoreapp3.1/mar0702-05-ukol-1.genruntimeconfig.cache
+/Users/alenamartinkova/Desktop/School/5.sem/C#/CVIKÁ/tetris/mar0702-05-ukol-1/mar0702-05-ukol-1/bin/Debug/netcoreapp3.1/mar0702-05-ukol-1.deps.json
+/Users/alenamartinkova/Desktop/School/5.sem/C#/CVIKÁ/tetris/mar0702-05-ukol-1/mar0702-05-ukol-1/bin/Debug/netcoreapp3.1/mar0702-05-ukol-1.runtimeconfig.json
+/Users/alenamartinkova/Desktop/School/5.sem/C#/CVIKÁ/tetris/mar0702-05-ukol-1/mar0702-05-ukol-1/bin/Debug/netcoreapp3.1/mar0702-05-ukol-1.runtimeconfig.dev.json
+/Users/alenamartinkova/Desktop/School/5.sem/C#/CVIKÁ/tetris/mar0702-05-ukol-1/mar0702-05-ukol-1/bin/Debug/netcoreapp3.1/mar0702-05-ukol-1.dll
+/Users/alenamartinkova/Desktop/School/5.sem/C#/CVIKÁ/tetris/mar0702-05-ukol-1/mar0702-05-ukol-1/bin/Debug/netcoreapp3.1/mar0702-05-ukol-1.pdb
+/Users/alenamartinkova/Desktop/School/5.sem/C#/CVIKÁ/tetris/mar0702-05-ukol-1/mar0702-05-ukol-1/obj/Debug/netcoreapp3.1/mar0702-05-ukol-1.AssemblyInfoInputs.cache
+/Users/alenamartinkova/Desktop/School/5.sem/C#/CVIKÁ/tetris/mar0702-05-ukol-1/mar0702-05-ukol-1/obj/Debug/netcoreapp3.1/mar0702-05-ukol-1.AssemblyInfo.cs
+/Users/alenamartinkova/Desktop/School/5.sem/C#/CVIKÁ/tetris/mar0702-05-ukol-1/mar0702-05-ukol-1/obj/Debug/netcoreapp3.1/mar0702-05-ukol-1.csproj.CoreCompileInputs.cache
+/Users/alenamartinkova/Desktop/School/5.sem/C#/CVIKÁ/tetris/mar0702-05-ukol-1/mar0702-05-ukol-1/obj/Debug/netcoreapp3.1/mar0702-05-ukol-1.dll
+/Users/alenamartinkova/Desktop/School/5.sem/C#/CVIKÁ/tetris/mar0702-05-ukol-1/mar0702-05-ukol-1/obj/Debug/netcoreapp3.1/mar0702-05-ukol-1.pdb
+/Users/alenamartinkova/Desktop/School/5.sem/C#/CVIKÁ/tetris/mar0702-05-ukol-1/mar0702-05-ukol-1/obj/Debug/netcoreapp3.1/mar0702-05-ukol-1.genruntimeconfig.cache

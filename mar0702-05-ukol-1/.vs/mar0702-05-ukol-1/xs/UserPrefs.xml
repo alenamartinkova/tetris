@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{950BEB05-A0A3-40C3-9CFD-01D77F84AE7B}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="mar0702-05-ukol-1/Program.cs">
     <Files>
-      <File FileName="mar0702-05-ukol-1/Program.cs" Line="29" Column="1" />
-      <File FileName="mar0702-05-ukol-1/MyQueue.cs" Line="12" Column="13" />
+      <File FileName="mar0702-05-ukol-1/Program.cs" Line="16" Column="49" />
+      <File FileName="mar0702-05-ukol-1/Tetromino.cs" Line="33" Column="27" />
+      <File FileName="mar0702-05-ukol-1/Tetromino2x3L.cs" Line="6" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

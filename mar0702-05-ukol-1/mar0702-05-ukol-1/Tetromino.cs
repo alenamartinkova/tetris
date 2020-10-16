@@ -9,12 +9,25 @@ namespace mar0702_05_ukol_1
         private ConsoleColor color;
         private Brick[] bricks;
 
-        public Tetromino(char orientation, Position pos, ConsoleColor color, Brick[] bricks)
+        public Tetromino(char orientation, Position pos, ConsoleColor color)
         {
             this.orientation = orientation;
             this.position = pos;
             this.color = color;
-            this.bricks = bricks;
+            this.bricks = new Brick[4];
+
+            this.bricks[0].offsetX = 0;
+            this.bricks[0].offsetY = 0;
+
+            this.bricks[1].offsetX = 0;
+            this.bricks[1].offsetY = 1;
+
+            this.bricks[2].offsetX = 1;
+            this.bricks[2].offsetY = 0;
+
+            this.bricks[3].offsetX = 1;
+            this.bricks[3].offsetY = 1;
+
         }
 
         public void Draw()
