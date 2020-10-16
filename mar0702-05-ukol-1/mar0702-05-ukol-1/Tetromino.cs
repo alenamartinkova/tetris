@@ -4,10 +4,10 @@ namespace mar0702_05_ukol_1
 {
     public class Tetromino
     {
-        private char orientation;
-        private Position position;
-        private ConsoleColor color;
-        private Brick[] bricks;
+        protected char orientation;
+        protected Position position;
+        protected ConsoleColor color;
+        protected Brick[] bricks;
 
         public Tetromino(char orientation, Position pos, ConsoleColor color)
         {
